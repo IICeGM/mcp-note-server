@@ -1,0 +1,12 @@
+
+# สภาพแวดล้อมจำลองของ Python
+venv/
+__pycache__/
+
+# ไฟล์ Log และข้อความที่เราให้ AI สร้างเล่นๆ
+*.log
+*.txt
+
+# สำหรับ Google Drive API (ถ้าคุณทำ) ห้ามเอาขึ้นเด็ดขาด!
+credentials.json
+token.json
