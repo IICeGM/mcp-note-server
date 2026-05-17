@@ -7,6 +7,5 @@ __pycache__/
 *.log
 *.txt
 
-# สำหรับ Google Drive API (ถ้าคุณทำ) ห้ามเอาขึ้นเด็ดขาด!
 credentials.json
 token.json
